@@ -3,6 +3,7 @@
 package zmq4
 
 /*
+#include <winsock2.h>
 #include <zmq.h>
 #include "zmq4.h"
 */
